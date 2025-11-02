@@ -1,0 +1,31 @@
+{
+  "pageTitle": "Meet Our Team",
+  "pageSubtitle": "Talented professionals driving innovation",
+  "companyName": "Uttarakhand Sports Foundation",
+  "teamMembers": [
+    {
+      "name": "Vikas Pundora",
+      "title": "Director of Business Development ",
+      "description": "Struggling to get your website right? Overwhelmed with tech, design, or delays? I help individuals and growing businesses create fast, responsive, and user-friendly websites that not only look great, but also generate real results. With over 14 years of experience, I’ve worked with clients across the USA, Canada, UK, and Australia—delivering websites that convert visitors into leads and customers.",
+      "linkedIn": "https://www.linkedin.com/in/vikas-pundora/",
+      "image": "",
+      "initials": "VP"
+    },
+    {
+      "name": "Manoj Dobhal",
+      "title": "CEO - Dish TV India Ltd",
+      "description": "Strong Domain knowledge and insights on B2C business models across product categories & market segments at PAN India level - with in depth understanding of ground realities, work culture, challenges & strategies required to turn opportunities into business benefits",
+      "linkedIn": "https://www.linkedin.com/in/manoj-dobhal-36500930/",
+      "image": "",
+      "initials": "MD"
+    },
+    {
+      "name": "Mahesh Kala",
+      "title": "CEO JV Micronics",
+      "description": "Manufacturer of Radio Frequency Absorbers and EMC Anechoic Chambers, FAR Field, Compact Antenna Test Ranges CATR , Near Field Test Ranges NFTR",
+      "linkedIn": "https://www.linkedin.com/in/mahesh-kala-26291012/",
+      "image": "",
+      "initials": "MK"
+    }
+  ]
+}
